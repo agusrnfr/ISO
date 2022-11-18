@@ -9,3 +9,4 @@
 ### Practicas PN
 * [**Practica 4**](https://github.com/agusrnfr/ISO/tree/main/PRACTICAS/PRACTICA_4)
 * [**Practica 5**](https://github.com/agusrnfr/ISO/tree/main/PRACTICAS/PRACTICA_5)
+* [**Practica 5**](https://github.com/agusrnfr/ISO/tree/main/PRACTICAS/PRACTICA_6)
